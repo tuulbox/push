@@ -1,3 +1,16 @@
+
+<h1>This is a fork of raix:push</h1>
+
+* steal transmissionError handling (ios) from 3.x branch
+* fix token logging for transmissionError
+* add TODO around how to handle feedback mentioning docs
+* fix the metadata system
+* add Push.hasToken to see if client has previously registered and received a token. This can
+	be used to tell if push has already been configured successfully before
+	a call to Push.Configure to control the timing of the permission prompt
+
+<hr>
+
 <img alt="Gi-SoftWare" src="https://raw.githubusercontent.com/raix/push/master/docs/logo.png" width="30%" height="30%">
 raix:push Push notifications
 =========
