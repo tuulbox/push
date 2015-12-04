@@ -1,6 +1,6 @@
 Package.describe({
   name: 'tuul:push',
-  version: '2.6.13-rc.1',
+  version: '2.6.13-rc.1_2',
   summary: 'Isomorphic Push notifications for APN and GCM',
   git: 'https://github.com/tuul/push.git'
 });
