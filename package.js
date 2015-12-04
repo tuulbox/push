@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'raix:push',
+  name: 'tuul:push',
   version: '2.6.13-rc.1',
   summary: 'Isomorphic Push notifications for APN and GCM',
-  git: 'https://github.com/raix/push.git'
+  git: 'https://github.com/tuul/push.git'
 });
 
 // Server-side push deps
